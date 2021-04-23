@@ -1,0 +1,13 @@
+git init // to create .git or repository
+git pull // to fetch the latest changes from the 	remote repository
+git push // to submit the changes from local 		  to remote repository
+git commit -m "your message" // to record the changes of the  history and put your 	message
+git status // to show the status of the fwile on the working tree and staging area
+
+git clone "url" // to copy the remote repository to your local.
+
+git add "file<name>" // to move specific file name from unstaging to staging area
+
+git add . //to move all files from unstaging area to staging area
+
+
